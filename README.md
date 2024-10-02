@@ -158,10 +158,10 @@ você pode linkar seu usuário, para caso algum usuário queira entrar em contat
 
 ```HTML
 # Autores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
-```
+ |
+[<img src="https://avatars.githubusercontent.com/u/27987184" width=115><br><sub>Jorge Menezes</sub>](https://github.com/jorge-menezes) 
 
+| :---: | :---: | :---: |
 <br>
 
 ## :pushpin: Licença:
