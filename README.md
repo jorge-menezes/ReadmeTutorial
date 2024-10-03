@@ -1,18 +1,18 @@
-<h1 align="center"> Como criar e personalizar o Readme dos seus projetos </h1>
+<h1 align="center"> Iremos criar e personalizar o Readme de seus Projetos </h1>
 
-:wink: Neste artigo você aprenderá como personalizar o readme dos seus projetos no github. <br>
+:wink: Neste artigo abordaremos como você personalizar o readme de seus Projetos no GitHub. <br>
 
 Mais o que seria README (ou leia-me)? Bem, é um arquivo com extensão .md, 
 ou seja ele é escrito em Markdown Syntax que é uma sintaxe usada para padronizar e facilitar a formatação de texto na web.
 
 
-##  :bulb: Porque é importante? 
+##  :bulb: Coisas importantes? 
 Bem, depois de desenvolver seu projeto e subir no  github você vai documentar o seu trabalho para que quem visite seu repositório saiba do que se trata.
 E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto, ou seja, é a porta de entrada para o seu projeto! 
 - :rocket: Além disso, algumas pessoas utilizam o perfil GitHub como portfólio, se esse for o seu caso, é interessante apostar em arquivos README para deixar seus projetos mais atrativos até mesmo para recrutadores.
 <br>
 
-## Alguns exemplos do que ter no README
+## Exemplos do que ter no README
 - Título e Imagem de capa;
 - Badges;
 - Índice;
@@ -26,19 +26,19 @@ E podemos fazer isso por meio do README, que é o primeiro arquivo a ser visto,
 - Licença.
 
 
-## :pushpin: Título e Imagem de capa:
+## :pushpin: Título e Imagem de Capa:
 Você pode colocá-lo dessa maneira:
 
 ```Markdown
 # Título 
 ```
 <br>
-Ou, caso queira colocar ele centralizado, você pode utilizar tags do HTML que funcionam normalmente, dessa forma:
+Ou, caso queira colocar ele centralizado, você pode utilizar  tags do HTML que funcionam normalmente, dessa forma:
 
 ```HTML
-<h1 align="center"> Seu título aqui </h1>
+<h1 align="center"> Seu Título Aqui </h1>
 ```
->Obs: Feito isso, caso queira, você pode fazer uma capa ou logo do projeto para colocar após o título. 
+>Obs: Feito isso. Caso queira, você pode fazer uma capa, ou logo do projeto para colocar após o título. 
 <br>
 
 ## :pushpin: Badges:
@@ -51,7 +51,7 @@ Exemplo:
 
 ![status](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Caso queira deixar centralizado, pode utilizar a tag align do HTML também, dessa forma:
+Caso queira deixar centralizado, pode utilizar a tag "align"  do HTML também, dessa forma:
 
 ```HTML
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
@@ -81,7 +81,7 @@ Exemplo:
 <br>
 
 ## :pushpin: Descrição do Projeto:
-Como é um objetivo do arquivo README descrever o projeto, é legal que você apresente logo após o título ou imagem de capa e/ou Badges caso tenha, uma breve explicação do seu projeto com seu objetivo principal.
+Como é o objetivo do arquivo README descrever seu projeto, é legal que você apresente logo após o título ou imagem de capa e/ou Badges caso tenha, uma breve explicação do seu projeto com seu objetivo principal.
 <br>
 
 ## :pushpin: Status do Projeto:
@@ -89,7 +89,7 @@ Caso você opte por não utilizar Badges sobre o status do projeto, é interessa
 Exemplo:
 
 ```Markdown
-> :construction: Projeto em construção :construction:
+> :construction: Projeto em Construção :construction:
 ```
 
 Caso queira centralizar:
@@ -100,7 +100,7 @@ Caso queira centralizar:
 </h4>
 ```
 
->Nesse exemplo foi utilizado o emoji :construction:, mas você pode utilizar em qualquer lugar do arquivo, como antes dos subtítulos. Nesse [Gist do Rafael Xavier de Souza](https://gist.github.com/rxaviers/7360908), você pode encontrar uma variedade de emojis para utilizar no seu README e deixá-lo mais descontraído.
+>Nesse exemplo foi utilizado o emoji :construction:, mas você pode utilizar em qualquer lugar do arquivo, como antes dos subtítulos. Aqui... [Gist do Rafael Xavier de Souza](https://gist.github.com/rxaviers/7360908), você pode encontrar uma variedade de emojis para utilizar no seu README e deixá-lo um pouco mais descontraído.
 
 <br>
 
@@ -121,7 +121,7 @@ Além disso, se for possível, é interessante apresentar as funcionalidades com
 <br>
 
 ## :pushpin: Acesso ao projeto:
-Caso o seu projeto esteja no ar com algum serviço de hospedagem, você pode disponibilizar o link para o mesmo. Caso contrário, você pode apostar em gifs e imagens, 
+Caso seu projeto esteja no ar com algum serviço de hospedagem, você pode disponibilizar o link para o mesmo. Caso contrário, você pode apostar em gifs e imagens, 
 como citado anteriormente, bem como indicar como o usuário pode baixar o projeto, abrir e executar.
 
 Isso pode ser feito em Markdown:
@@ -183,7 +183,7 @@ Portanto, caso seu repositório tenha uma licença, é essencial que você coloq
 
 Você pode encontrar algumas dessas ideias na ferramenta [README Creator](https://readmecreator.herokuapp.com/), site simples que reúne alguns recursos úteis para criação de READMEs de projetos, assim como para perfis. Após preencher os campos adequados e explorar os recursos, ele gerará um README no formato HTML/MD que você poderá continuar editando e adaptando.
 
-### Ferramentas extra
+### Ferramentas extra!
 - https://readme.so/pt
 - https://www.readme-templates.com/
 - https://github.com/Ileriayo/markdown-badges
